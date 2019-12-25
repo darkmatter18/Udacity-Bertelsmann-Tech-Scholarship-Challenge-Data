@@ -29,3 +29,12 @@
 - Going on Lession 2.
 - Completed the BBC memory test (72% and 100%)
 - Doing my C++ studies. Learned Pointers, Referance and Dynamic Memory Allocation
+
+## Day 7: 23/12/2019
+- Conmpleted the lesson 2
+- Again in my C++ studies. Learned Function Overloading, Copy Constructors and Default Arguments
+
+## Day 8: 25/12/2019
+- Merry Christmas ✨🎆
+- Ho, Ho, Ho 
+- No study
