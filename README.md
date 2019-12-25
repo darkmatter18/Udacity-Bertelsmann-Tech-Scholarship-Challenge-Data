@@ -5,4 +5,4 @@
 
 ## Contents
 
-- [60 Days of Udacity](/60DaysOfUdacity)
+- [60 Days of Udacity](./60DaysOfUdacity)
